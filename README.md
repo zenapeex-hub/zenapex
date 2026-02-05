@@ -1,2 +1,0 @@
-# zenapex
-Онлайн-магазин ZENAPEX 
